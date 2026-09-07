@@ -1,0 +1,12 @@
+{
+  "name": "logogram",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Realtime Logogram messenger",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
